@@ -1,0 +1,25 @@
+
+Asquid:S1166\"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+bsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(´ì¬§
+Hsquid:S1313*"1Make this IP "192.168.2.48" address configurable.(º÷ß¯
+?squid:S1148^"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+?squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Q
+squid:S106P";Replace this usage of System.out or System.err by a logger.(˜ã†¹
+Isquid:S1172"-Remove this unused method parameter "AppURL".(‹û÷×ûÿÿÿÿ
+Asquid:S1172F"*Remove this unused method parameter "SSN".(¼Ìºà
+d
+squid:S134$"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÒÛ´²
+nsquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìºà
+Asquid:S1166A"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+Jsquid:UselessParenthesesCheckN"!Remove those useless parentheses.(±íÎ’
+isquid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(÷º¢°üÿÿÿÿ8ÙŸ¨ÊÊ-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ÃØ×°þÿÿÿÿ8¨´ÔêÊ-
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í½Çƒ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú‡¼¹üÿÿÿÿ8¨´ÔêÊ-
+bsquid:S1132$"KMove the "local" string literal on the left side of this string comparison.(ÒÛ´²
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+nsquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ìºà
+nsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷ß¯

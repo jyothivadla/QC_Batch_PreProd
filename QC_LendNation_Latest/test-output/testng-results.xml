@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16564" started-at="2020-02-12T04:34:49Z" finished-at="2020-02-12T04:35:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16564" started-at="2020-02-12T04:34:49Z" finished-at="2020-02-12T04:35:05Z">
+      <class name="tests.LendNation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.LendNation@5383967b]" name="setup" is-config="true" duration-ms="3815" started-at="2020-02-12T04:34:49Z" finished-at="2020-02-12T04:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LOC_Default_DefaultPayment_Txn()[pri:1, instance:tests.LendNation@5383967b]" name="LOC_Default_DefaultPayment_Txn" duration-ms="12561" started-at="2020-02-12T04:34:52Z" finished-at="2020-02-12T04:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOC_Default_DefaultPayment_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.LendNation@5383967b]" name="getResult" is-config="true" duration-ms="0" started-at="2020-02-12T04:35:05Z" finished-at="2020-02-12T04:35:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LOC_Default_DefaultPayment_Txn status=SUCCESS method=LendNation.LOC_Default_DefaultPayment_Txn()[pri:1, instance:tests.LendNation@5383967b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.LendNation@5383967b]" name="endReport" is-config="true" duration-ms="172" started-at="2020-02-12T04:35:05Z" finished-at="2020-02-12T04:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.LendNation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

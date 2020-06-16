@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+<<<<<<< HEAD
+        <include name="Anoop_st_void"/>
+=======
+        <include name="Janaki"/>
+>>>>>>> janaki1.2
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.QCStore">
+        <methods>
+<<<<<<< HEAD
+          <include name="TLP_RefinanceStepDownVoid"/>
+          <include name="getResult"/>
+          <include name="setup"/>
+=======
+          <include name="JQC_TLP_Deposit_Menu_Txn"/>
+          <include name="JQC_TLP_Deposit_dropdown_Txn"/>
+          <include name="JQC_TLP_GraceDays_Deposit_dropdown_Txn"/>
+          <include name="JQC_DefaultPayment_Txn_Testdata"/>
+          <include name="getResult"/>
+          <include name="setup"/>
+          <include name="JQC_DefaultPayment_Void_Txn_Testdata"/>
+>>>>>>> janaki1.2
+          <include name="endReport"/>
+          <include name="killProcess"/>
+        </methods>
+      </class> <!-- tests.QCStore -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

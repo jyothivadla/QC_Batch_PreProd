@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="110" total="111" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="882181" started-at="2020-03-19T13:06:55Z" finished-at="2020-03-19T13:21:37Z">
+    <groups>
+      <group name="Jyothi">
+        <method signature="QCStore.LOC_WriteoffRecoveryReturn()[pri:608, instance:tests.QCStore@5f9d02cb]" name="LOC_WriteoffRecoveryReturn" class="tests.QCStore"/>
+      </group> <!-- Jyothi -->
+    </groups>
+    <test name="Test" duration-ms="882181" started-at="2020-03-19T13:06:55Z" finished-at="2020-03-19T13:21:37Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="97" started-at="2020-03-19T13:06:55Z" finished-at="2020-03-19T13:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5001" started-at="2020-03-19T13:06:55Z" finished-at="2020-03-19T13:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="LOC_WriteoffRecoveryReturn()[pri:608, instance:tests.QCStore@5f9d02cb]" name="LOC_WriteoffRecoveryReturn" duration-ms="876904" started-at="2020-03-19T13:07:00Z" finished-at="2020-03-19T13:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOC_WriteoffRecoveryReturn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="166" started-at="2020-03-19T13:21:37Z" finished-at="2020-03-19T13:21:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LOC_WriteoffRecoveryReturn status=SUCCESS method=QCStore.LOC_WriteoffRecoveryReturn()[pri:608, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

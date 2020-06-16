@@ -1,0 +1,66 @@
+
+Osquid:S1197?"8Move the array designator from the variable to the type.(åï©ñ
+_squid:S1192Ÿ"GDefine a constant instead of duplicating this literal "finish" 3 times.(‚ñÆÌ
+usquid:S1192¨"]Define a constant instead of duplicating this literal "transactionDataBean.password" 4 times.(ü”êô
+rsquid:S1192š"[Define a constant instead of duplicating this literal "Tender type is entered as " 5 times.(ï»Í^
+qsquid:S1192"YDefine a constant instead of duplicating this literal "Password is selected as " 5 times.(ìüË
+fsquid:S1192N"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+Isquid:S1199o"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ó"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(«É€¹
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(Œ‰Ùìùÿÿÿÿ
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.( „Êº
+bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.( „Êº
+bsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(°¤û¯
+hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(‰©üşÿÿÿÿ
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ÓÿŠ‰
+csquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(ç–…Õ
+hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ıú
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+i
+squid:S134("NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹‘éÿÿÿÿÿ
+R
+squid:S106Ö";Replace this usage of System.out or System.err by a logger.(¶÷ÿÑ
+Rsquid:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+ksquid:S1132‡"NMove the "VoidLoan" string literal on the left side of this string comparison.(ÜÁ·Óùÿÿÿÿ
+gsquid:S1132£"OMove the "Refinance" string literal on the left side of this string comparison.(­øÅŒ
+jsquid:S1132¯"RMove the "Deposit Void" string literal on the left side of this string comparison.(Õ“¬
+fsquid:S1132º"NMove the "NSF Void" string literal on the left side of this string comparison.(œÃ§¾
+nsquid:S1132Æ"QMove the "Void Refund" string literal on the left side of this string comparison.(ü‰íÊùÿÿÿÿ
+Osquid:S1135‹"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+ squid:MethodCyclomaticComplexity"\The Cyclomatic Complexity of this method "qcVoid" is 14 which is greater than 10 authorized.(ß Â÷úÿÿÿÿ
+Esquid:S1481/".Remove this unused "ProductID" local variable.(œñ†í
+>squid:S14813"'Remove this unused "df" local variable.(©Âìü
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ß Â÷úÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ß Â÷úÿÿÿÿ
+Bsquid:S1166"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Bsquid:S1166•"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+=squid:S1166å"%Either log or rethrow this exception.(¬Ù¨Í
+Bsquid:S1166‰"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Tsquid:S1854/"=Remove this useless assignment to local variable "ProductID".(œñ†í
+Msquid:S18543"6Remove this useless assignment to local variable "df".(©Âìü
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Â÷úÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Â÷úÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+nsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨
+ssquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+nsquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+ssquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+nsquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+nsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷Ö³
+tsquid:S00117Õ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åî¯¤úÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,38 @@
+
+àsquid:S1192>"ÃDefine a constant instead of duplicating this literal "/html/body/form/table/tbody/tr/td/table/tbody/tr[1]/td/table/tbody/tr[2]/td/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr[" 5 times.(µÆç¨úÿÿÿÿ
+„squid:S1192s"hDefine a constant instead of duplicating this literal " Mid day deposit completed successfully" 4 times.(à¡Çÿÿÿÿÿ
+jsquid:S1192R"NDefine a constant instead of duplicating this literal "finishdeposit" 4 times.(Á¥˜Ìÿÿÿÿÿ
+fsquid:S1192$"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+Šsquid:S1192n"nDefine a constant instead of duplicating this literal "//input[@value='Ok' and @class='sortbuttons']" 4 times.(Ò®€ûüÿÿÿÿ
+€squid:S1192r"iDefine a constant instead of duplicating this literal "Dispalying ok button condition satisfied" 3 times.(àÜŸ
+nsquid:S3008"RRename this field "Duedate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸôÜ…úÿÿÿÿ
+Isquid:S1444"-Make this "public static Duedate" field final(ŸôÜ…úÿÿÿÿ
+asquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(‘»—R
+n
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	
+i
+squid:S134;"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ó¹ò³øÿÿÿÿ
+i
+squid:S134n"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ò®€ûüÿÿÿÿ
+j
+squid:S134…"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÆÄê½úÿÿÿÿ
+j
+squid:S134¹"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ò®€ûüÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"SMake Duedate a static final constant or non-public and provide accessors if needed.(ŸôÜ…úÿÿÿÿ
+`squid:S11324"IMove the "ACH" string literal on the left side of this string comparison.(ƒÛÕá
+bsquid:S1132"KMove the "CHECK" string literal on the left side of this string comparison.(î·š
+‹ squid:MethodCyclomaticComplexity"`The Cyclomatic Complexity of this method "middeposit" is 11 which is greater than 10 authorized.(ÑŒØ
+hsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÑŒØ
+Csquid:S1172"-Remove this unused method parameter "AppURL".(ÑŒØ
+Asquid:S1166A"%Either log or rethrow this exception.(Å¡¢Œøÿÿÿÿ
+Asquid:S1166\"%Either log or rethrow this exception.(˜Ç Éúÿÿÿÿ
+Bsquid:S1166Š"%Either log or rethrow this exception.(Å¡¢Œøÿÿÿÿ
+Bsquid:S1166¨"%Either log or rethrow this exception.(˜Ç Éúÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŒØ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŒØ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çøåù
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+rsquid:S00122Ç"TAt most one statement is allowed per line, but 2 statements were found on this line.(ŒÅûÈøÿÿÿÿ
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ
+Wsquid:UselessImportCheck"3Remove this unused import 'junit.framework.Assert'.(›¡ÇÕ

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="53" total="54" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="613562" started-at="2019-04-12T06:00:18Z" finished-at="2019-04-12T06:10:31Z">
+    <groups>
+      <group name="Jyothi">
+        <method signature="QCStore.ILP_MidDay_Deposit()[pri:1, instance:tests.QCStore@5f9d02cb]" name="ILP_MidDay_Deposit" class="tests.QCStore"/>
+      </group> <!-- Jyothi -->
+    </groups>
+    <test name="Test" duration-ms="613562" started-at="2019-04-12T06:00:18Z" finished-at="2019-04-12T06:10:31Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="78" started-at="2019-04-12T06:00:18Z" finished-at="2019-04-12T06:00:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5007" started-at="2019-04-12T06:00:18Z" finished-at="2019-04-12T06:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="ILP_MidDay_Deposit()[pri:1, instance:tests.QCStore@5f9d02cb]" name="ILP_MidDay_Deposit" duration-ms="608211" started-at="2019-04-12T06:00:23Z" finished-at="2019-04-12T06:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ILP_MidDay_Deposit -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="234" started-at="2019-04-12T06:10:31Z" finished-at="2019-04-12T06:10:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ILP_MidDay_Deposit status=SUCCESS method=QCStore.ILP_MidDay_Deposit()[pri:1, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-04-12T06:10:31Z" finished-at="2019-04-12T06:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Jyothi_PDL_Accounting"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.QCStore">
+        <methods>
+          <include name="QC_TwoPDL_Con_multidisbDCVoid_DC"/>
+          <include name="QC_Deposit_Return_RefinanceTxn"/>
+          <include name="QC_Deposit_Return_RefinanceVoidTxn"/>
+          <include name="QC_PDL_Conversion_CKOT"/>
+          <include name="setup"/>
+          <include name="QC_PDL_Conversion"/>
+          <include name="QC_TwoPDL_Conversion_ChangeAmtdisbCK"/>
+          <include name="QC_PDL_Conversion_Refinance"/>
+          <include name="endReport"/>
+          <include name="killProcess"/>
+          <include name="QC_EPP_Return_NSFpaymentTxn"/>
+          <include name="QC_TwoPDL_Conversion_disbCashDCVoid"/>
+          <include name="QC_Deposit_Returnposting_RedepositTxn"/>
+          <include name="QC_RefinanceVoid_NSF_ReturnTxn"/>
+          <include name="getResult"/>
+          <include name="QC_PDL_DCPayment_Rescind"/>
+          <include name="QC_Full_BuybackReturn_NSF_PaymentTxn"/>
+          <include name="QC_TwoPDL_Con_multidisbDCVoid_cash"/>
+          <include name="QC_TwoPDL_Conversion_ChangeAmt"/>
+          <include name="QC_TwoPDL_Conversion_disbCashDC"/>
+          <include name="QC_Full_BuybackReturn_NSF_PaymentVoidTxn"/>
+          <include name="QC_TwoPDL_Conversion_ChangeAmtdisbCash"/>
+          <include name="QC_PDL_DCPayment_RescindEK"/>
+          <include name="QC_Deposit_ReturnPaymentTxn"/>
+        </methods>
+      </class> <!-- tests.QCStore -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

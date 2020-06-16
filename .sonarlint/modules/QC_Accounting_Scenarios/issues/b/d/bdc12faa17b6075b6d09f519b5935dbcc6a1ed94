@@ -1,0 +1,36 @@
+
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•·√
+Ü"squid:ClassVariableVisibilityCheck"XMake last4cheknum a static final constant or non-public and provide accessors if needed.(›¬ ù
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∂œÒ©
+nsquid:S3008"WRename this field "No_of_checks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ﬂ≈ÿî
+Isquid:S1444"2Make this "public static last4cheknum" field final(›¬ ù
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.( …óÿ
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸∂ÑŒ˛ˇˇˇˇ
+hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(∫èÔÉˇˇˇˇˇ
+Ü"squid:ClassVariableVisibilityCheck"XMake No_of_checks a static final constant or non-public and provide accessors if needed.(ﬂ≈ÿî
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(√ÛŒà˘ˇˇˇˇ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(–•·√
+\squid:S1854!"@Remove this useless assignment to local variable "TenderAmount".(√ÛŒà˘ˇˇˇˇ
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(√ñ“ç
+isquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(è›©Ã8»›®˚€-
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(–•·√
+Ysquid:S1854 "=Remove this useless assignment to local variable "CouponNbr".(˚˛—¥˝ˇˇˇˇ
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡û£º
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•·√
+fsquid:S11923"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(À¯«™˝ˇˇˇˇ
+Jsquid:S2387"3"last4cheknum" is the name of a field in "QCStore".(›¬ ù
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ﬁ≥®ˇˇˇˇˇ
+osquid:S00117ã"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø»î“
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≠ÍË§ˇˇˇˇˇ
+Jsquid:S1481 ".Remove this unused "CouponNbr" local variable.(˚˛—¥˝ˇˇˇˇ
+Msquid:S1481!"1Remove this unused "TenderAmount" local variable.(√ÛŒà˘ˇˇˇˇ
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯˙«˝ˇˇˇˇ
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˚˛—¥˝ˇˇˇˇ
+=squid:S1166£"%Either log or rethrow this exception.(¨Ÿ®Õ
+hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(Í°èã¯ˇˇˇˇ
+csquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(¸øÅÙ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ€àÃ˚ˇˇˇˇ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â‹ØÃ
+`squid:S1132Z"IMove the "ACH" string literal on the left side of this string comparison.(È¨®ﬁ
+Isquid:S1444"2Make this "public static No_of_checks" field final(ﬂ≈ÿî
+bsquid:S1132t"KMove the "CHECK" string literal on the left side of this string comparison.(¢˝Öß
